@@ -1,0 +1,14 @@
+Criar um aplicativo que permita informar o nome e o sobrenome de uma pessoa e mostre o nome completo. 
+
+node --version
+npm install -g npm@latest
+
+npx expo-create-app app-aula2
+npx install react-native-toast-message
+
+Criar cadastro
+->nome, email, fone e senha
+
+Navegação stack
+npm install @react-navigation/native @react-navigation/native-stack
+npx expo install react-native-screens react-native-safe-area-context
